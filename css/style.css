@@ -78,3 +78,7 @@ h1{
 #reset-button:hover{
     background-color: #ffd082;
 }
+
+#p1{
+    font-weight: bold;
+}
